@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amith
+- 🌱 I’m currently learning Python
+- Insta @meisamith
